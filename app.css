@@ -1,0 +1,30 @@
+body {
+  background-color: #000;
+}
+h1 {
+  text-align: center;
+  color: teal;
+}
+h2 {
+  text-align: center;
+  color: #cdb4db;
+}
+h3 {
+  font-size: x-large;
+  color: #84a98c;
+}
+
+div {
+  font-size: large;
+  padding: 1%;
+  margin-bottom: 1em;
+}
+
+a {
+  text-decoration: none;
+  color: beige;
+}
+
+a:hover {
+  color: violet;
+}
